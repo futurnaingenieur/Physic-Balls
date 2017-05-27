@@ -1,4 +1,4 @@
-# <ul>Fun With Javascript #1</ul>  
+# Fun With Javascript #1
 <h1>Physic Balls</h1>
 
 Funny implementation of random balls with gravity. Made in Javascript
